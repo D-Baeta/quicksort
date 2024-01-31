@@ -1,1 +1,1 @@
-# quicksort
+Este projeto tem como objetivo explorar diferentes cenários de simulação ao aplicar o algoritmo de ordenação QuickSort em listas de inteiros positivos. O foco está na influência da escolha do pivô nas diferentes instâncias do problema, considerando três cenários de desordenação: pouco, médio e muito desordenado. A análise abrange seis estratégias distintas para escolha do pivô, visando compreender como cada uma delas impacta o desempenho do algoritmo.
